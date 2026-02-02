@@ -69,7 +69,7 @@ This model can be reused without retraining.
 
 ## 📁 Repository Contents
 
-* `svm_breast_cancer.ipynb` — Jupyter Notebook
+* task11.ipynb` — Jupyter Notebook
 * `svm_breast_cancer_model.pkl` — Saved model
 * `README.md` — Project documentation
 
